@@ -3,6 +3,9 @@ title: Small World
 SEOTitle: DTU-CSS2022-Grp11
 header-img: img/post-bg-desk.jpg
 email: sxxxx@dtu.dk
+email: sxxxx@dtu.dk
+email: sxxxx@dtu.dk
+
 description: "description zone"
 keyword: "keywords"
 url: "https://darlingking.github.io/"          # your host, for absolute URL
@@ -18,11 +21,9 @@ sidebar-avatar: /img/DTU.jpg      # use absolute URL, seeing it's used in both `
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
+
 # github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
 
 
