@@ -3,7 +3,7 @@ layout:     post
 title:      Project Description
 subtitle:   The history of Small World and our aims
 date:       2022-04-28
-author:     Espen Sivertsen
+author:     Qiuyang ZOU
 header-img: img/the-first.png
 catalog:   true
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      Discussion
 subtitle:   Twitter Friends
 date:       2022-04-29
-author:     Espen Sivertsen
+author:     Lim Seunghwan
 header-img: img/the-first.png
 catalog:   true
 ---
