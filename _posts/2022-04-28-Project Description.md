@@ -6,8 +6,6 @@ date:       2022-04-28
 author:     Espen Sivertsen
 header-img: img/the-first.png
 catalog:   true
-tags:
-    - 往事如烟
 ---
 ## The history of Small World
 “Six degrees of separation is the idea that all people are six or fewer social connections away from each other.” This concept was first introduced by Frigyes Karinthy in a short story. The story is about a group of friends playing a game where the goal is to connect any person in the world to themselves by a chain of five others. 
