@@ -15,8 +15,7 @@ In the Small-world experiment in the 1960s Stanley Milgram and other researchers
 It was not until 1998 that Duncan Watts and Steven Strogatz published the first network model on the small world phenomenon. And this mathematical model has since been applied in a wide range of different areas.
 ## Our aims
 Today, it is easier to test the model due to the rise of social networks and by testing their datasets. Thus, the goal of this project is to validate and visualise the six degrees of separation using Twitter datasets in two dimensions:
-
-    1. Randomly sample 5 000 and 10 000 users without considering common tags.
-    2. Randomly sample 200 users under the top 5 mentioned tags in the dataset.
+`   1. Randomly sample 5 000 and 10 000 users without considering common tags.
+`   2. Randomly sample 200 users under the top 5 mentioned tags in the dataset.
 
 
