@@ -2,17 +2,17 @@
 title: Small World
 SEOTitle: DTU-CSS2022-Grp11
 header-img: img/post-bg-desk.jpg
-email: sxxxx@dtu.dk
+email: s217012@dtu.dk
 
 
-description: "description zone"
-keyword: "keywords"
+description: 
+keyword: 
 url: "https://darlingking.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/DarlingKing/DarlingKing.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Group 11 of Computational Social Science"
 sidebar-avatar: /img/DTU.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -20,11 +20,6 @@ sidebar-avatar: /img/DTU.jpg      # use absolute URL, seeing it's used in both `
 
 # SNS settings
 RSS: false
-
-# github_username:    qiubaiying
-# facebook_username:  baiying.qiu.7
-# twitter_username:   qiubaiying
-
 
 
 
@@ -54,10 +49,6 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
-
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
@@ -93,19 +84,3 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
-
-# 友情链接，请尽量不要删除，谢谢！
-#friends: [
-#    {
-#        title: "星球国际语",
-#        href: "https://globien.gitee.io"
-#    },{
-#        title: "星球语互动社区",
-#        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-#    },{
-#        title: "知乎：人造国际语",
-#        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-#    }
-#]
